@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+.outer{
+    border: 10px solid red;
+    margin: 20px;
+    box-shadow: 15px 5px black;
+}
+.inner{
+    padding: 20px;
+    border: 3px solid green;
+    margin: 3%; 
+    
+}
+#img{
+   float: right; 
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+p{
+    clear: both;
+}

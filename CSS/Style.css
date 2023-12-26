@@ -12,3 +12,20 @@
     background-color: pink
     
 }
+#outer{
+    height: 300ox;
+    border-radius: 20px;
+}
+.inner{
+    height: 300px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 20px;
+    padding: 100px 0px;
+    box-sizing: initial;
+}
+*{
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
